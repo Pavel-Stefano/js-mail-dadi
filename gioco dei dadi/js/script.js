@@ -10,25 +10,6 @@
 // Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 
 
-// // 1) chiedere email utente e validarla
-// const email = [];
-
-// for(let i = 0; i < email.length; i++);{
-//     const emailUtente = (prompt(`qual'è la tua email?`));
-
-//     if(email = '@'){
-
-//         alert('benvenuto');
-
-//     }else{
-
-//     alert('email non corretta');
-
-//     }
-
-//    email.push(emailUtente)
-
-// }
 
 // 2) generare un numero random da 1 a 6 sia pc che utente 
     let nCasualUtente, nCasualPc, estrazione;
